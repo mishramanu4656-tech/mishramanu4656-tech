@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Manu Mishra 👋
 
-<!--
-**mishramanu4656-tech/mishramanu4656-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2nd Year Student | Python Developer in Progress | DSA & Git/GitHub
 
-Here are some ideas to get you started:
+I'm a 2nd-year student passionate about learning programming and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 2nd-year student
+- 🐍 Currently learning Python
+- 🔧 Learning Git & GitHub
+- 🧠 Exploring Data Structures & Algorithms
+- 💻 Building projects to improve my development skills
+- 🌱 Continuously learning and improving
+
+## 🛠️ Currently Learning
+
+- Python
+- Git & GitHub
+- Data Structures & Algorithms
+- Problem Solving
+- Software Development Fundamentals
+
+## 📌 My Goals
+
+- Build real-world projects
+- Improve my problem-solving skills
+- Contribute to Open Source
+- Become internship-ready
+- Grow as a software developer
+
+## 📫 Connect With Me
+
+- LinkedIn: [Manu Mishra]
+linkedin.com/in/manu-mishra-128a74349
+
+
+
+---
+
+⭐ Thanks for visiting my profile!
