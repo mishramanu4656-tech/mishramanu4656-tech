@@ -1,38 +1,35 @@
-# Hi, I'm Manu Mishra 👋
+# Manu Mishra
 
-### 2nd Year Student | Python Developer in Progress | DSA & Git/GitHub
+**B.Tech CSE student | Aspiring full-stack web developer**
 
-I'm a 2nd-year student passionate about learning programming and building useful projects.
+I'm a second-year Computer Science and Engineering student learning to build web applications end to end, from the interface to the database. I'm starting a full-stack web development internship at Unified Mentor in September 2026, and I'm exploring AI alongside it.
 
-## 🚀 About Me
+## What I'm working on
 
-- 🎓 2nd-year student
-- 🐍 Currently learning Python
-- 🔧 Learning Git & GitHub
-- 🧠 Exploring Data Structures & Algorithms
-- 💻 Building projects to improve my development skills
-- 🌱 Continuously learning and improving
+- Full-stack web development internship at Unified Mentor, starting September 2026
+- My personal portfolio website: [mishramanu4656-tech.github.io](https://mishramanu4656-tech.github.io)
+- Learning to build with LLM APIs and add AI features to web apps
+- Strengthening my fundamentals in Python, data structures and algorithms
 
-## 🛠️ Currently Learning
+## Skills
 
-- Python
-- Git & GitHub
-- Data Structures & Algorithms
-- Problem Solving
-- Software Development Fundamentals
+- **Fundamentals:** Python, data structures and algorithms, problem solving
+- **Web development:** HTML, CSS, JavaScript, React, Node.js, Express
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, GitHub, VS Code
 
-## 📌 My Goals
+## Goals
 
-- Build real-world projects
-- Improve my problem-solving skills
-- Contribute to Open Source
-- Become internship-ready
-- Grow as a software developer
+- Build and publish real projects, and write up what I learn from each one
+- Grow from a student into a confident full-stack developer
+- Improve my problem-solving skills through regular practice
+- Contribute to open source
 
-## 📫 Connect With Me
+## Get in touch
 
-- LinkedIn: [Manu Mishra]
-linkedin.com/in/manu-mishra-128a74349
+- Portfolio: [mishramanu4656-tech.github.io](https://mishramanu4656-tech.github.io)
+- LinkedIn: [linkedin.com/in/manu-mishra-128a74349](https://www.linkedin.com/in/manu-mishra-128a74349/)
+- Email: [mishramanu4656@gmail.com](mailto:mishramanu4656@gmail.com)
 
 
 
